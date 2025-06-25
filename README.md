@@ -1,5 +1,6 @@
 # ScamGuard
 🔍 Key Features:
+
 ✅ URL Analyzer – Detects phishing links, misspelled domains, and suspicious patterns
 ✅ Message Scanner – Flags scam texts (fake prizes, urgent money requests, romance scams)
 ✅ Contact Verifier – Validates phone numbers and identifies high-risk country codes
